@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ua.PI201.Matyukhin","l":"Main"},{"p":"com.ua.PI201.Matyukhin","l":"PalindromeFinder"}];updateSearchResults();
